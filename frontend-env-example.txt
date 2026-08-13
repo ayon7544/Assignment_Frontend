@@ -1,0 +1,8 @@
+# Copy this file to .env.local and fill in your values.
+# Never commit the actual .env.local file.
+
+# Base URL of the backend API
+# Local:
+NEXT_PUBLIC_API_URL=http://localhost:5062
+# Production:
+# NEXT_PUBLIC_API_URL=https://assignment-backend-b924.onrender.com
